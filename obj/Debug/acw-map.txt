@@ -1,0 +1,4 @@
+AndroidFullScreen.MainActivity, AndroidFullScreen;md5587ad1519838d126796902e9637df0cc.MainActivity
+AndroidFullScreen.MainActivity, AndroidFullScreen, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5587ad1519838d126796902e9637df0cc.MainActivity
+AndroidFullScreen.MainActivity;md5587ad1519838d126796902e9637df0cc.MainActivity
+androidfullscreen.MainActivity;md5587ad1519838d126796902e9637df0cc.MainActivity
